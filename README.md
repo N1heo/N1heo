@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @N1heo
+- 👀 I’m interested in becoming a game developer ...
+- 🌱 I’m currently learning Java, WEB, PostgreSQL in the university. By myself, I'm trying to learn c++, as it's very good for GameDev...
+- 📫 How to reach me napsatarov@gmail.com, +996557457070...
+
+<!---
+N1heo/N1heo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
