@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nazar
-- 👀 I’m interested in becoming a web developer
+- 👀 I’m interested in becoming a backend developer
 - 🌱 I’m currently learning Python, Django, Java, WEB, PostgreSQL, Spring Boot.
 - 📫 How to reach me - napsatarov@gmail.com, +996557457070
 
